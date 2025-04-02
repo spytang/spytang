@@ -1,4 +1,4 @@
-#Hi, I'm Lin Yan
+# Hi, I'm Lin Yan
 
 🌏 From Zhangzhou, Hokkien  
 📖 Undergraduate student at NJU | Exchange at NUS  
