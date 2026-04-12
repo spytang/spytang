@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-I am a systems-driven researcher and engineer focused on building and optimizing the next generation of connected infrastructure. From extreme deep-space transmission environments to low-power edge computing, I enjoy modifying protocols at their core to achieve maximum efficiency. 
+I am an undergraduate student focused on building and optimizing the next generation of connected infrastructure. From extreme deep-space transmission environments to low-power edge computing, I enjoy modifying protocols at their core to achieve maximum efficiency. 
 
 - 🎓 **Undergraduate:** Telecommunications Engineering at **Nanjing University (NJU)** (Rank: 1/60, GPA: 91.4/100).
 - 🌍 **Global Exposure:** Exchange at **National University of Singapore (NUS)** & Visiting Research Intern at **HKUST (WANDS Group)**.
 - 🔬 **Current Research:** Full-Stack IoT Platforms, UAV Remote Identification Systems, and Earth-Moon Link Emulation.
-- 🌏 **Beyond the Code:** Proudly from Zhangzhou, Hokkien. Deeply passionate about Minnan culture, exploring history, and hardware tinkering.
+- 🌏 **Beyond the Code:** Proudly from South Hokkien. Deeply passionate about Minnan culture, exploring history, and hardware tinkering.
 
 ---
 
@@ -35,7 +35,7 @@ I am a systems-driven researcher and engineer focused on building and optimizing
 - **Joyce M. Kuok Special Award** — Kuok Foundation
 
 ### 📝 Language & Testing
-- **English:** **IELTS 6.5** (Reading: 7.0 | Writing: 6.5 | Listening: 6.0 | Speaking: 6.0)
+- **English:** **IELTS 6.5** 
 - **Mandarin / Hokkien:** Native 
 
 ---
