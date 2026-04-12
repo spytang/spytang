@@ -64,18 +64,3 @@ I am an undergraduate student focused on building and optimizing the next genera
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/spytang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spytang&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spytang&layout=compact&theme=nord"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Stay curious, keep exploring!" 🚀</i>
-</div>
